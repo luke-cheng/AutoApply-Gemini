@@ -1,20 +1,34 @@
-# AutoApply Gemini: Smarter Job Applications with Chrome Build-in Gemini AI
+# AutoApply Gemini: AI-Powered Job Application Auto-Fill Extension
 
+An intelligent Chrome extension that leverages Chrome's built-in Gemini AI to automatically fill out job application forms, making the job search process faster and more efficient.
 
+## 🎯 Project Overview
 
-<!-- # On-device AI with Gemini Nano
+AutoApply Gemini solves the biggest pain point in job applications: those annoying open-ended questions that require manual AI work. Instead of copying and pasting from external AI tools, the extension automatically generates job-specific responses using your CV and the job description.
 
-This sample demonstrates how to use the Gemini Nano prompt API in Chrome Extensions. To learn more about the API, head over to [Built-in AI on developer.chrome.com](https://developer.chrome.com/docs/extensions/ai/prompt-api).
+## 🚀 Core Features
 
-## Overview
+### **Smart Auto-Fill for Job Applications**
 
-The extension provides a chat interface using the Prompt API with Chrome's built-in Gemini Nano model.
+- **Context-aware form filling** using Chrome's Gemini AI
+- **Handles the most annoying fields** like "Why do you want to work with us?", "Tell us about yourself", "What makes you a good fit?"
+- **No more manual copy-paste** from external AI tools
+- **Job-specific responses** generated from your CV and the job description
 
-## Running this extension
+### **Simple Workflow**
 
-1. Clone this repository.
-1. Run `npm install` in the project directory.
-1. Run `npm run build` in the project directory to build the extension.
-1. Load the newly created `dist` directory in Chrome as an [unpacked extension](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked).
-1. Click the extension icon.
-1. Interact with the Prompt API in the sidebar. -->
+1. **Upload your CV** (text format) - your base resume
+2. **Navigate to job application** - extension detects the form
+3. **AI analyzes job description** and generates tailored responses
+4. **Auto-fills** with relevant, personalized answers
+5. **Review and submit** - no more manual AI work needed
+
+### **Privacy & Cheap**
+
+- All data stored locally on your device
+- No external API calls
+- Your CV and responses stay private
+
+---
+
+[Project plan](/PROJECT_PLAN.md)
